@@ -1,0 +1,6 @@
+{
+  "name": "Studio Alpha",
+  "description": "Obsidian Minimalist Design Studio with interactive narrative intelligence, service matrix, and manifesto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
